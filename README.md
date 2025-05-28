@@ -1,4 +1,4 @@
-# 🤖 CodeBot v1.0.0 – Porsche Funktionssoftware-Assistent
+# Porsche Funktionssoftware-Assistent
 
 **CodeBot** ist ein leistungsstarker KI-gestützter Assistent zur Unterstützung der Fahrzeug-Funktionsentwicklung bei Porsche. Die Anwendung kombiniert dokumentbasiertes Frage-Antworting mit intelligenter Codegenerierung basierend auf bestehenden Codebasen und technischen Dokumenten.
 
